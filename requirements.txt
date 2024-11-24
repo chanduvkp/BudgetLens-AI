@@ -1,0 +1,8 @@
+pandas 
+plotly 
+folium
+transformers
+torch
+fastapi
+uvicorn
+
