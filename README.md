@@ -45,7 +45,7 @@ Install Dependencies
 ``` pip install -r requirements.txt
 
 Run the Application
-``` streamlit run app.py
+``` streamlit run budget_dashboard_with_prompt.py
 
 
 Input Data Format
