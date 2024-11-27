@@ -38,14 +38,14 @@ Development: Python 3.x
 Getting Started
 
 Clone the Repository
-bashCopygit clone https://github.com/yourusername/BudgetLens-AI.git
-cd BudgetLens-AI
+``` git clone https://github.com/yourusername/BudgetLens-AI.git
+```cd BudgetLens-AI
 
 Install Dependencies
-bashCopypip install -r requirements.txt
+``` pip install -r requirements.txt
 
 Run the Application
-bashCopystreamlit run app.py
+``` streamlit run app.py
 
 
 Input Data Format
